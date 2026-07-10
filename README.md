@@ -1,1 +1,124 @@
-<!-- Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Prashant%20Sah&fontSize=45&fontColor=ffffff&animation=fadeIn"/> </p> <h1 align="center">Hi 👋, I'm Prashant Sah</h1> <h3 align="center"> Computer Engineering Student • Aspiring Data Science & AI/ML Engineer </h3> <p align="center"> Passionate about building intelligent solutions, developing modern web applications, and continuously learning new technologies. </p> <p align="center"> <a href="https://www.linkedin.com/in/prashantsah0598"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sahprashant87@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> --- ## 🚀 About Me 🎓 Computer Engineering Student 💡 Interested in Artificial Intelligence, Data Science & Web Development 🌱 Currently learning DSA, React, SQL & Machine Learning 💻 Building projects to improve software development and analytical skills 📍 Nepal --- ## 💻 Tech Stack <p> <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,figma"/> </p> ### Libraries - NumPy - Jupyter Notebook --- ## 📚 Currently Learning - 📖 Data Structures & Algorithms - ⚛️ React - 🗄️ SQL - 🤖 Machine Learning - 📊 Data Analytics --- ## 📂 Featured Projects 🌐 Responsive Web Applications 📊 Data Analytics using Python & NumPy 🤖 AI & Machine Learning Projects > More projects are available in my repositories. --- ## 📈 GitHub Stats <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/> </p> --- ## 🎯 Career Goal To become a Software Engineer specializing in AI and Data Science by building scalable applications, solving real-world problems, and contributing to impactful products. --- ## 🤝 Let's Connect 📧 **Email:** sahprashant87@gmail.com 💼 **LinkedIn:** https://www.linkedin.com/in/prashantsah0598
+```markdown
+<!-- ======================= Banner ======================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:00C6FF&text=Prashant%20Sah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Prashant Sah</h1>
+
+<h3 align="center">
+Computer Engineering Student • Data Science & AI/ML Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Web+Developer;Data+Science+Learner;Always+Learning+New+Technologies"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Engineering Student
+
+💡 Passionate about **Artificial Intelligence, Data Science & Web Development**
+
+🌱 Currently learning **React, SQL, Machine Learning & DSA**
+
+🚀 Building projects that improve my software development and analytical skills
+
+📍 Nepal
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,figma"/>
+
+</p>
+
+### Libraries & Tools
+
+- NumPy
+- Jupyter Notebook
+
+---
+
+# 📚 Currently Learning
+
+- 📖 Data Structures & Algorithms
+- ⚛️ React
+- 🗄 SQL
+- 🤖 Machine Learning
+- 📊 Data Analytics
+
+---
+
+# 📂 Featured Projects
+
+🌐 Responsive Websites
+
+📊 Data Analytics Projects using Python & NumPy
+
+🤖 AI/ML Projects
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Career Goal
+
+To become a Software Engineer specializing in **Artificial Intelligence & Data Science**, building impactful products and continuously improving through learning and real-world projects.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prashantsah0598">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sahprashant87@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
+```

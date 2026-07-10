@@ -1,71 +1,103 @@
-# Hi, I'm Prashant Sah 👋
+```markdown
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Prashant%20Sah&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-### Computer Engineering Student | Aspiring Data Science & AI/ML Engineer
+<h1 align="center">Hi 👋, I'm Prashant Sah</h1>
 
-I'm a Computer Engineering student passionate about Artificial Intelligence, Data Science, and Software Engineering. I enjoy building practical projects, solving real-world problems, and continuously learning modern technologies.
+<h3 align="center">
+Computer Engineering Student • Aspiring Data Science & AI/ML Engineer
+</h3>
+
+<p align="center">
+Passionate about building intelligent solutions, developing modern web applications, and continuously learning new technologies.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prashantsah0598">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sahprashant87@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-* 🎓 Computer Engineering Student
-* 💡 Interested in Artificial Intelligence, Data Science, Software Engineering, and Web Development
-* 🌱 Currently learning Data Structures & Algorithms, SQL, React, and Machine Learning
-* 🚀 Building projects to improve my software development, analytical, and problem-solving skills
-* 📍 Nepal
+🎓 Computer Engineering Student
+
+💡 Interested in Artificial Intelligence, Data Science & Web Development
+
+🌱 Currently learning DSA, React, SQL & Machine Learning
+
+💻 Building projects to improve software development and analytical skills
+
+📍 Nepal
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
+<p>
 
-* Python
-* JavaScript
-* HTML5
-* CSS3
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,figma"/>
+
+</p>
 
 ### Libraries
 
-* NumPy
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Figma
-* Jupyter Notebook
+- NumPy
+- Jupyter Notebook
 
 ---
 
 ## 📚 Currently Learning
 
-* Data Structures & Algorithms
-* React
-* SQL
-* Machine Learning
-* Data Analytics
+- 📖 Data Structures & Algorithms
+- ⚛️ React
+- 🗄️ SQL
+- 🤖 Machine Learning
+- 📊 Data Analytics
 
 ---
 
 ## 📂 Featured Projects
 
-* 🌐 Responsive Web Applications
-* 📊 Data Analytics Projects using Python & NumPy
-* 🤖 AI & Machine Learning Projects
+🌐 Responsive Web Applications
 
-> Explore my repositories to see the projects I've built while learning and applying new technologies.
+📊 Data Analytics using Python & NumPy
+
+🤖 AI & Machine Learning Projects
+
+> More projects are available in my repositories.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/>
+
+</p>
 
 ---
 
 ## 🎯 Career Goal
 
-I'm preparing for Software Engineering, Web Development, and AI/ML Engineering roles where I can contribute to impactful products, solve challenging problems, and continuously grow as an engineer.
+To become a Software Engineer specializing in AI and Data Science by building scalable applications, solving real-world problems, and contributing to impactful products.
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-* **LinkedIn:** [www.linkedin.com/in/prashantsah0598](http://www.linkedin.com/in/prashantsah0598)
-* **Email:** [sahprashant87@gmail.com](mailto:sahprashant87@gmail.com)
+📧 **Email:** sahprashant87@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/prashantsah0598
+```
